@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/brackets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/doubly-linked-list" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/expression-calculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/finite-state-machine" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/multiply" vcs="Git" />
