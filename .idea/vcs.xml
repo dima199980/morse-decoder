@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/brackets" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/expression-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/multiply" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zeros" vcs="Git" />
   </component>
 </project>
