@@ -76,7 +76,7 @@ function decode(expr) {
         
     }
 
-    return word;
+    return text;
 }
 
 module.exports = {
