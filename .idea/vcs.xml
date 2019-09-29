@@ -7,7 +7,6 @@
     <mapping directory="$PROJECT_DIR$/expression-calculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/finite-state-machine" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/js-edu" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/js-edu/doubly-linked-list" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/multiply" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/zeros" vcs="Git" />
   </component>
